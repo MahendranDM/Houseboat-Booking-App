@@ -1,10 +1,11 @@
 import React from 'react'
+import NavBar from './NavBar'
 
 const AddHouseBoat = () => {
   return (
     <div>
 
-
+<NavBar/>
 <div className="container mt-4">
   <div className="row">
     <div className="col-12">
